@@ -1,0 +1,22 @@
+.title {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    height: 100%;
+
+    margin-top: 100px;
+}
+
+.title_item {
+    cursor: pointer;
+
+    p {
+        font-size: 55px;
+        font-weight: 700;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+        color: rebeccapurple;
+    }
+}
+
