@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Snap-Shot-Page/static/css/main.42f0ca9f.css",
+    "main.js": "/React-Snap-Shot-Page/static/js/main.9b96425e.js",
+    "index.html": "/React-Snap-Shot-Page/index.html",
+    "main.42f0ca9f.css.map": "/React-Snap-Shot-Page/static/css/main.42f0ca9f.css.map",
+    "main.9b96425e.js.map": "/React-Snap-Shot-Page/static/js/main.9b96425e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f0ca9f.css",
+    "static/js/main.9b96425e.js"
+  ]
+}
